@@ -1,0 +1,20 @@
+{
+  "name": "kyrica",
+  "version": "0.1.0",
+  "description": "Song lyrics generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanikawa04/kyrica.git"
+  },
+  "keywords": [],
+  "author": "tanikawa04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanikawa04/kyrica/issues"
+  },
+  "homepage": "https://github.com/tanikawa04/kyrica#readme"
+}

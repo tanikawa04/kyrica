@@ -1,0 +1,19 @@
+{
+  "curly"    : true,
+  "eqeqeq"   : true,
+  "expr"     : true,
+  "forin"    : true,
+  "immed"    : true,
+  "newcap"   : false,
+  "noarg"    : true,
+  "noempty"  : true,
+  "nonew"    : true,
+  "undef"    : true,
+  "unused"   : "vars",
+  "strict"   : true,
+  "trailing" : true,
+  "validthis": true,
+  "eqnull"   : true,
+  "esnext"   : true,
+  "node"     : true
+}
