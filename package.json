@@ -19,5 +19,9 @@
   "homepage": "https://github.com/tanikawa04/kyrica#readme",
   "devDependencies": {
     "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "deepcopy": "^0.5.0"
   }
 }
