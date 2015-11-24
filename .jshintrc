@@ -15,5 +15,6 @@
   "validthis": true,
   "eqnull"   : true,
   "esnext"   : true,
+  "mocha"    : true,
   "node"     : true
 }
