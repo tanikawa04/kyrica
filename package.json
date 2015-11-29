@@ -2,9 +2,9 @@
   "name": "kyrica",
   "version": "0.1.0",
   "description": "Song lyrics generator",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/tanikawa04/kyrica/issues"
   },
-  "homepage": "https://github.com/tanikawa04/kyrica#readme"
+  "homepage": "https://github.com/tanikawa04/kyrica#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "deepcopy": "^0.5.0",
+    "mongodb": "^2.0.49"
+  }
 }
