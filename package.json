@@ -23,6 +23,7 @@
   "dependencies": {
     "co": "^4.6.0",
     "deepcopy": "^0.5.0",
+    "kuromoji": "0.0.5",
     "mongodb": "^2.0.49"
   }
 }
